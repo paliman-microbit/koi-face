@@ -1,0 +1,21 @@
+{
+    "name": "KOI-人臉辨識",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "koi": "github:kittenbot/pxt-koi#v0.2.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
